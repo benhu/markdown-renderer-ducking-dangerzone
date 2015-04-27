@@ -1,0 +1,16 @@
+{
+  "name": "Markdown-html",
+  "version": "1.0.0",
+  "description": "Markdown to html renderer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benjamin humeau",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "marked": "^0.3.3"
+  }
+}
